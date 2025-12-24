@@ -1,6 +1,6 @@
-- 👋 Hi, I’m parv, a first year undergraduate student at FLAME University, Pune, India. 
+- 👋 Hi, I’m parv, a second year undergraduate student at FLAME University, Pune, India. 
 - 👀 I’m interested in programming of course, and also music.
-- 🌱 I’m currently learning C++, pytorch, scikit-learn, R.
+- 🌱 I’m currently learning typescript, pytorch, scikit-learn, R.
 - 💞️ I’m looking to collaborate on AI/Data science projects. 
 - 📫 How to reach me: parv.sharma@flame.edu.in for official purposes, and parv@rhour.com for other reasons. 
 - ⚡ Fun fact: I'm a multigenre music producer with multiple releases out on spotify.
