@@ -8,7 +8,7 @@ interested in AI, ML, systems, and actually understanding how things work.
 currently building stuff with django + LLMs.
 Experimenting with frameworks like LangChain/LangGraph, GraphQL, and custom APIs.
 
-outside of tech — i make music.  
+outside of tech, i make music, watch football and play cs2.  
 rap, production, guitar. some tracks out on spotify.
 
 reach me:  
